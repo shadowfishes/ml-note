@@ -9,3 +9,5 @@ Some tracks maybe very helpful to data science
   Every ml project must be measured, a sensible metric is a important tools to verify your model
 4. distance_matrix    
   A faster and easy way to calculate distance between nodes.
+4. VIF determine the multicollinearity 
+  Also some other methods are provided.

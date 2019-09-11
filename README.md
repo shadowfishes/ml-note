@@ -11,3 +11,5 @@ Some tracks maybe very helpful to data science
   A faster and easy way to calculate distance between nodes.
 5. VIF determine the multicollinearity    
   Also some other methods are provided.
+6. Cross-validation    
+  An indroduction about cv.
